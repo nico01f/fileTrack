@@ -1,4 +1,4 @@
-require "FileTrack/version"
+require "FileTrack/config/requires"
 
 module FileTrack
   # Your code goes here...
